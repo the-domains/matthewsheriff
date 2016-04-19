@@ -1,0 +1,28 @@
+name: MatthewSheriff
+favicon: null
+layout_spectrum: 0.12419495289213955
+typography_spectrum: 0.3594979583285749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7663516437169164
+  lightness: 0.24810347286984324
+  saturation: 0.32134538679383695
+  rhythmicContrast: 0.7354113890323788
+purpose: []
